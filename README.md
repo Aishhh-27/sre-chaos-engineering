@@ -134,9 +134,9 @@ kubectl autoscale deployment sre-app --cpu-percent=50 --min=2 --max=5
 ## Screenshots
 
 ### Autoscaling in action
+![HPA Scaling](screenshots/hpa-scale.png)
 ### Pods scaling up
-### Chaos testing (pod restarts)
-### Monitoring dashboard
+![Pods](screenshots/pods.png)
 
 
 Conclusion
